@@ -1,0 +1,40 @@
+{
+  "templateName": "custom",
+  "formData": {
+    "fastTrackDescription": {
+      "answer": "quantum realm "
+    },
+    "contactEmail": {
+      "answer": "thomaslmusial@gmail.com"
+    },
+    "mainColor": {
+      "answer": "#3B82F6"
+    },
+    "baseBgColor": {
+      "answer": "#FFFFFF"
+    },
+    "textColor": {
+      "answer": "#000000"
+    },
+    "bgLayoutType": {
+      "answer": "solid"
+    },
+    "additionalInfo": {
+      "answer": "quantum realm "
+    }
+  },
+  "pages": [
+    {
+      "components": [],
+      "text": []
+    }
+  ],
+  "status": "draft",
+  "createdAt": "2025-11-26T20:34:14.219Z",
+  "updatedAt": "2025-11-26T20:34:14.991Z",
+  "ownerId": "68faa4f13b35617c47b96056",
+  "owner": "thomaslmusial@gmail.com",
+  "websiteName": "Custom Website",
+  "_id": "6927644672b766366d7d888c",
+  "__v": 0
+}
